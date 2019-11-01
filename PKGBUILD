@@ -2,7 +2,7 @@
 
 pkgname=('anbox-git' 'anbox-modules-dkms-git')
 _pkgname=anbox
-pkgver=r1096.ea2b7a3
+pkgver=r1122.d9b5e8e
 pkgrel=1
 epoch=1
 arch=('x86_64')
