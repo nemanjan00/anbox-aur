@@ -9,7 +9,7 @@ arch=('x86_64')
 url="http://anbox.io/"
 license=('GPL3')
 makedepends=('cmake' 'git' 'glm' 'lxc' 'sdl2_image' 'protobuf' 'boost' 'properties-cpp' 'gtest' 'python2')
-source=("git+https://github.com/anbox/anbox.git"
+source=("git+https://github.com/nemanjan00/anbox.git"
 	"git+https://github.com/anbox/anbox-modules.git"
 	'anbox-container-manager.service'
 	'anbox-session-manager.service'
